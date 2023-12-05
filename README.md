@@ -1,5 +1,4 @@
-# Personal Data Analytics and Visualization Projects
-Introduction
+# Introduction: Data Analytics and Visualization
 
 This repository serves as a hub for my ongoing Data Analytics and Visualization endeavors. As I continue to explore and develop new projects, this space will be updated with the latest advancements, experiments, and insights gained in the field of DA.
 
